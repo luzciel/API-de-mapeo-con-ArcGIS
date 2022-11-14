@@ -1,0 +1,20 @@
+html,
+body,
+#viewDiv {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+ }
+
+ #graphic {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ }
+
+ .esri-button {
+     margin: 0 0.2rem;
+     justify-content: space-between;
+     width: 2.4rem;
+ }

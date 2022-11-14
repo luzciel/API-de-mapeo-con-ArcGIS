@@ -1,0 +1,23 @@
+{
+  "name": "API-de-mapeo-con-ArcGIS",
+  "version": "1.0.0",
+  "description": "Api de mapeo y ubicación con ArcGIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luzciel/API-de-mapeo-con-ArcGIS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luzciel/API-de-mapeo-con-ArcGIS/issues"
+  },
+  "homepage": "https://github.com/luzciel/API-de-mapeo-con-ArcGIS#readme",
+  "dependencies": {
+    "@arcgis/core": "^4.25.1"
+  }
+}
